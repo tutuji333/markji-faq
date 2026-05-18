@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 墨墨记忆卡使用手册站点
+    url: https://tutuji333.github.io/markji-manual/
+    about: 想直接查手册、FAQ 和故障排查，请先访问文档站点。
+  - name: 墨墨记忆卡论坛
+    url: https://markji.discourse.group/
+    about: 讨论、反馈、功能许愿和案例分享请优先使用论坛。

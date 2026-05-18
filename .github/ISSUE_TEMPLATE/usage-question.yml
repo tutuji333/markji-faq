@@ -1,0 +1,31 @@
+name: 使用问题沉淀
+description: 把论坛或客服高频问题沉淀为 FAQ / 故障排查候选
+title: "[Usage Question] "
+labels:
+  - faq-candidate
+body:
+  - type: input
+    id: source
+    attributes:
+      label: 问题来源
+      description: 论坛链接、客服记录或用户反馈摘要
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: 用户原始问题
+      description: 尽量保留用户自然语言表达
+    validations:
+      required: true
+  - type: dropdown
+    id: target
+    attributes:
+      label: 建议沉淀位置
+      options:
+        - FAQ
+        - 故障排查
+        - 功能正文
+        - 待判断
+    validations:
+      required: true

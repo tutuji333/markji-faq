@@ -1,0 +1,46 @@
+site_name: 墨墨记忆卡常见问答
+site_description: 面向终端用户的墨墨记忆卡 FAQ 与故障排查站点
+site_url: https://tutuji333.github.io/markji-faq/
+repo_url: https://github.com/tutuji333/markji-faq
+repo_name: markji-faq
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.follow
+    - content.action.edit
+  logo: assets/images/favicon.png
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/stylesheets/faq-extra.css
+
+nav:
+  - FAQ 首页: index.md
+  - 我该去哪里求助: getting-help.md
+  - 账号、同步与换设备: account-sync.md
+  - 学习、复习与选卡: study-cards.md
+  - 导入、导出与创作: import-export.md
+  - 故障排查: troubleshooting.md
+  - 使用手册: https://tutuji333.github.io/markji-manual/
+  - 论坛与反馈: https://markji.discourse.group/

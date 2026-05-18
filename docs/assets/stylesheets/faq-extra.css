@@ -1,0 +1,79 @@
+:root {
+  --md-primary-fg-color: #f6f4ef;
+  --md-primary-fg-color--light: #fbfaf7;
+  --md-primary-fg-color--dark: #ece8df;
+  --md-default-bg-color: #fbfaf7;
+  --md-default-fg-color: #242424;
+  --md-accent-fg-color: #9f3d2d;
+  --md-accent-fg-color--transparent: rgba(159, 61, 45, 0.12);
+  --md-typeset-a-color: #9f3d2d;
+}
+
+body {
+  background: #fbfaf7;
+}
+
+.md-header,
+.md-sidebar,
+.md-sidebar__scrollwrap,
+.md-sidebar__inner,
+.md-nav,
+.md-footer {
+  background: #f6f4ef;
+}
+
+.md-header {
+  color: #242424;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+}
+
+.md-content__inner {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+
+.md-typeset {
+  font-size: 0.84rem;
+  line-height: 1.78;
+}
+
+.md-typeset h1 {
+  margin-bottom: 1rem;
+  font-size: 1.95rem;
+  font-weight: 700;
+}
+
+.md-typeset h2 {
+  margin-top: 2.25rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #e7e1d7;
+  font-size: 1.28rem;
+  font-weight: 700;
+}
+
+.md-typeset h3 {
+  margin-top: 1.4rem;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border: 1px solid #e4ddd1;
+  box-shadow: none;
+  background: #fffdf9;
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  background: #f3eee6;
+}
+
+.faq-callout {
+  padding: 1rem 1.1rem;
+  border: 1px solid #e2dbcf;
+  border-radius: 0.5rem;
+  background: #fff;
+  margin: 1.2rem 0;
+}

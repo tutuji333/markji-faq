@@ -1,0 +1,30 @@
+name: 功能变更同步
+description: 用于记录需求文档、版本变更或产品更新对手册的影响
+title: "[Feature Sync] "
+labels:
+  - feature-sync
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 对应版本
+      description: 例如 2026.05 / v1.2.0
+  - type: textarea
+    id: source
+    attributes:
+      label: 输入材料
+      description: 粘贴需求文档、版本说明或截图来源
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: 变化内容
+      description: 请描述具体改了什么
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: 你预计影响哪些页面
+      description: 如果暂时不确定，可以留空，由维护者补充

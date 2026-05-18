@@ -1,0 +1,25 @@
+name: 文档纠错
+description: 报告手册中的错误、过时信息或表达不清的问题
+title: "[Doc Fix] "
+labels:
+  - documentation
+body:
+  - type: textarea
+    id: page
+    attributes:
+      label: 对应页面
+      description: 请填写页面路径或页面标题
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题描述
+      description: 这里哪里不对、过时或不好理解
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 建议修改
+      description: 如果你知道更准确的写法，请直接写出来
