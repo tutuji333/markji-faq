@@ -15,6 +15,14 @@
 - 与使用手册仓库分工协作，但不再承载完整教学正文
 - 给维护者提供一套稳定的文档协作和发布流程
 
+## 当前内容结构
+
+- `docs/index.md`：FAQ 首页
+- `docs/getting-help.md`：求助分流页
+- `docs/troubleshooting.md`：故障排查总入口
+- `docs/study-cards.md` 等专题页：只做问题索引，不在这里堆长答案
+- `docs/questions/`：具体问题单页，后续新增 FAQ 默认优先加在这里
+
 ## 如果你只是想查问题
 
 直接访问对应站点即可：
@@ -33,8 +41,9 @@
 
 1. 先阅读 `CONTRIBUTING.md`
 2. 先判断内容是否属于“FAQ / 故障排查 / 求助入口”
-3. 提交 Issue 或直接发起 PR
-4. 合并到 `main` 后自动发布到 GitHub Pages
+3. 优先判断是补一个具体问题页，还是只需要在专题索引页补链接
+4. 提交 Issue 或直接发起 PR
+5. 合并到 `main` 后自动发布到 GitHub Pages
 
 ## 本地预览
 

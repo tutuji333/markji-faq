@@ -1,5 +1,5 @@
 site_name: 墨墨记忆卡常见问答
-site_description: 面向终端用户的墨墨记忆卡 FAQ 与故障排查站点
+site_description: 面向终端用户的高频问题与故障排查站点
 site_url: https://tutuji333.github.io/markji-faq/
 repo_url: https://github.com/tutuji333/markji-faq
 repo_name: markji-faq
@@ -9,6 +9,8 @@ theme:
   name: material
   language: zh
   features:
+    - navigation.sections
+    - navigation.expand
     - search.suggest
     - search.highlight
     - toc.follow
@@ -33,14 +35,49 @@ extra_css:
   - assets/stylesheets/faq-extra.css
 
 nav:
-  - FAQ 首页: index.md
-  - 我该去哪里求助: getting-help.md
-  - 学习、复习与选卡: study-cards.md
-  - 牌组、卡片与管理: decks-cards.md
-  - 账号、同步、签到与反馈: account-sync.md
-  - 专业版、记忆币与升级: pro-membership.md
-  - 导入、导出与创作: import-export.md
-  - 网页端、搜索与编辑: web-editing.md
-  - 故障排查: troubleshooting.md
-  - 使用手册: https://tutuji333.github.io/markji-manual/
-  - 论坛与反馈: https://markji.discourse.group/
+  - 首页: index.md
+  - 我该去哪里求助？: getting-help.md
+  - 学习与复习:
+      - 学习与复习总览: study-cards.md
+      - 每天固定新学: questions/study/daily-new-cards.md
+      - 新学受复习上限影响: questions/study/review-limit-toggle.md
+      - 一键选卡不见了: questions/study/one-tap-selection-missing.md
+      - 暂停某个牌组复习: questions/study/pause-a-deck.md
+      - 模糊完成复习: questions/study/fuzzy-completes-review.md
+      - 如何点认识 / 模糊 / 忘记: questions/study/how-to-use-feedback-buttons.md
+      - 重置数据 vs 移出记忆: questions/study/reset-vs-remove-memory.md
+  - 牌组与卡片:
+      - 牌组与卡片总览: decks-cards.md
+      - 单张卡片换牌组: questions/decks/move-card-between-decks.md
+      - 收藏牌组能否自由增删改: questions/decks/edit-collected-deck.md
+      - 原作者删除后是否消失: questions/decks/collected-deck-after-author-deletes.md
+      - 修改过的卡片如何恢复: questions/decks/restore-edited-card.md
+  - 签到与反馈:
+      - 签到与反馈总览: account-sync.md
+      - 补签按钮在哪里: questions/sign-in/make-up-sign-in.md
+      - 提前签到有什么用: questions/sign-in/early-sign-in.md
+  - 专业版与记忆币:
+      - 专业版与记忆币总览: pro-membership.md
+      - 终身会员升级: questions/pro/lifetime-upgrade.md
+      - 收藏牌组消耗减免: questions/pro/collected-deck-discount.md
+      - 牌组学习消耗设置: questions/pro/learning-cost-setting.md
+      - 更大容量: questions/pro/larger-capacity.md
+      - 安卓找不到专业版入口: questions/pro/android-pro-entry.md
+      - 专业版语音次数: questions/pro/pro-tts-quota.md
+  - 导入与迁移:
+      - 导入与迁移总览: import-export.md
+      - 哪些 apkg 更容易导入成功: questions/import/apkg-compatibility.md
+  - 网页版、语音与搜索:
+      - 网页版、语音与搜索总览: web-editing.md
+      - 快速生成语音: questions/web/quick-speech.md
+      - 网页版精准搜索: questions/web/web-search.md
+      - 图片遮盖更适合网页端: questions/web/image-masking.md
+  - 故障排查:
+      - 出现问题时先做什么？: troubleshooting.md
+      - apkg 文件解析失败: questions/troubleshooting/apkg-parse-failed.md
+      - Anki 导入失败或乱码: questions/troubleshooting/anki-import-garbled.md
+      - 新学受复习上限影响异常: questions/troubleshooting/review-limit-bug.md
+      - 登录时数据解压密码错误: questions/troubleshooting/login-data-error.md
+      - 跨设备同步失败: questions/troubleshooting/sync-failed.md
+      - 签到失败或按钮异常: questions/troubleshooting/sign-in-failed.md
+      - 网页功能或导出异常: questions/troubleshooting/web-export-bug.md
