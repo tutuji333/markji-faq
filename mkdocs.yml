@@ -36,9 +36,11 @@ nav:
   - FAQ 首页: index.md
   - 我该去哪里求助: getting-help.md
   - 学习、复习与选卡: study-cards.md
-  - 牌组、同步与账号: account-sync.md
+  - 牌组、卡片与管理: decks-cards.md
+  - 账号、同步、签到与反馈: account-sync.md
   - 专业版、记忆币与升级: pro-membership.md
   - 导入、导出与创作: import-export.md
+  - 网页端、搜索与编辑: web-editing.md
   - 故障排查: troubleshooting.md
   - 使用手册: https://tutuji333.github.io/markji-manual/
   - 论坛与反馈: https://markji.discourse.group/
