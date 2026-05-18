@@ -8,7 +8,7 @@
 - [“新学受复习上限影响”是什么意思？](questions/study/review-limit-toggle.md)
 - [为什么一键选卡不见了？](questions/study/one-tap-selection-missing.md)
 - [如何暂停某个牌组的复习？](questions/study/pause-a-deck.md)
-- [“模糊完成复习”是什么意思？](questions/study/fuzzy-completes-review.md)
+- [为什么“模糊完成复习”功能不见了？](questions/study/fuzzy-completes-review.md)
 - [复习时应该如何点击“认识 / 模糊 / 忘记”？](questions/study/how-to-use-feedback-buttons.md)
 - [重置学习数据和移出记忆有什么区别？](questions/study/reset-vs-remove-memory.md)
 

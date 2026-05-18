@@ -9,11 +9,20 @@
 - [我该去哪里求助？](getting-help.md)
 - [出现问题时先做什么？](troubleshooting.md)
 
+## 高频直达
+
+- [跨设备同步失败怎么办？](questions/troubleshooting/sync-failed.md)
+- [登录时提示学习数据解压密码错误怎么办？](questions/troubleshooting/login-data-error.md)
+- [补签按钮在哪里？补签卡怎么用？](questions/sign-in/make-up-sign-in.md)
+- [如何尽量保证每天都有固定新学？](questions/study/daily-new-cards.md)
+- [为什么一键选卡不见了？](questions/study/one-tap-selection-missing.md)
+- [为什么“模糊完成复习”功能不见了？](questions/study/fuzzy-completes-review.md)
+
 ## 按问题找答案
 
 - [学习与复习](study-cards.md)
 - [牌组与卡片](decks-cards.md)
-- [签到与反馈](account-sync.md)
+- [签到、账号与同步](account-sync.md)
 - [专业版与记忆币](pro-membership.md)
 - [导入与迁移](import-export.md)
 - [网页版、语音与搜索](web-editing.md)

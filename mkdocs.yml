@@ -43,7 +43,7 @@ nav:
       - 新学受复习上限影响: questions/study/review-limit-toggle.md
       - 一键选卡不见了: questions/study/one-tap-selection-missing.md
       - 暂停某个牌组复习: questions/study/pause-a-deck.md
-      - 模糊完成复习: questions/study/fuzzy-completes-review.md
+      - 模糊完成复习功能不见了: questions/study/fuzzy-completes-review.md
       - 如何点认识 / 模糊 / 忘记: questions/study/how-to-use-feedback-buttons.md
       - 重置数据 vs 移出记忆: questions/study/reset-vs-remove-memory.md
   - 牌组与卡片:
@@ -52,8 +52,8 @@ nav:
       - 收藏牌组能否自由增删改: questions/decks/edit-collected-deck.md
       - 原作者删除后是否消失: questions/decks/collected-deck-after-author-deletes.md
       - 修改过的卡片如何恢复: questions/decks/restore-edited-card.md
-  - 签到与反馈:
-      - 签到与反馈总览: account-sync.md
+  - 签到、账号与同步:
+      - 签到、账号与同步总览: account-sync.md
       - 补签按钮在哪里: questions/sign-in/make-up-sign-in.md
       - 提前签到有什么用: questions/sign-in/early-sign-in.md
   - 专业版与记忆币:
