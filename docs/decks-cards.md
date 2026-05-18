@@ -7,7 +7,7 @@
 - [单张卡片能直接移到另一个牌组吗？](questions/decks/move-card-between-decks.md)
 - [收藏牌组可以自由增删改吗？](questions/decks/edit-collected-deck.md)
 - [收藏牌组在原作者删除后会消失吗？](questions/decks/collected-deck-after-author-deletes.md)
-- [修改过的卡片如何恢复？先看网页端编辑历史](questions/decks/restore-edited-card.md)
+- [修改过的卡片如何恢复？先看网页端编辑历史的公开演示](questions/decks/restore-edited-card.md)
 
 ## 如果你想处理图片遮盖或二次编辑
 

@@ -74,10 +74,11 @@ nav:
       - 图片遮盖更适合网页端: questions/web/image-masking.md
   - 故障排查:
       - 出现问题时先做什么？: troubleshooting.md
+      - 手机端 App 登录失败: questions/troubleshooting/app-login-failed.md
       - apkg 文件解析失败: questions/troubleshooting/apkg-parse-failed.md
       - Anki 导入失败或乱码: questions/troubleshooting/anki-import-garbled.md
       - 新学受复习上限影响异常: questions/troubleshooting/review-limit-bug.md
       - 登录时数据解压密码错误: questions/troubleshooting/login-data-error.md
       - 跨设备同步失败: questions/troubleshooting/sync-failed.md
-      - 签到失败或按钮异常: questions/troubleshooting/sign-in-failed.md
+      - 签到失败或没看到按钮: questions/troubleshooting/sign-in-failed.md
       - 网页功能或导出异常: questions/troubleshooting/web-export-bug.md

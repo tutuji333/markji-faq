@@ -22,7 +22,8 @@
 - `功能异常 / bug / 签到失败 / 网页行为异常`：优先走 `异常反馈`
 - `跨设备同步失败`：先走 `异常反馈`，再视情况补邮件
 - `登录时提示学习数据解压密码错误` 或其他需要账号人工排查的问题：发邮件 `support@markji.com`
-- `导入 .apkg` 失败 / `Anki` 导入乱码：保留原文件，并通过 `异常反馈` 或邮件把文件一并交给官方
+- `导入 .apkg` 解析失败：保留原文件，`异常反馈` 或邮件都可以
+- `Anki` 导入失败 / 乱码：更适合直接邮件并附上文件
 - `只是想看看别人怎么理解这个功能`：先看对应 FAQ，再去论坛
 
 ## 4. 提交前准备这些信息
@@ -40,6 +41,7 @@
 
 ## 常见异常入口
 
+- [手机端 App 登录失败](questions/troubleshooting/app-login-failed.md)
 - [导入 `.apkg` 提示文件解析失败](questions/troubleshooting/apkg-parse-failed.md)
 - [Anki 导入失败或乱码](questions/troubleshooting/anki-import-garbled.md)
 - [“新学受复习上限影响”表现不对](questions/troubleshooting/review-limit-bug.md)
@@ -51,9 +53,11 @@
 ## 参考帖子
 
 - [入站必看：墨墨记忆卡用户服务指南](https://markji.discourse.group/t/topic/500)
+- [异常反馈：手机端 app 登录失败](https://markji.discourse.group/t/topic/120)
 - [异常反馈：跨设备同步失败](https://markji.discourse.group/t/topic/69)
 - [无法正常登录：提示学习数据解压密码错误](https://markji.discourse.group/t/topic/604)
 - [异常反馈：签到失败](https://markji.discourse.group/t/topic/607)
+- [请求互助：Anki 导入墨墨记忆卡失败或乱码问题求助（已回复）](https://markji.discourse.group/t/topic/610)
 - [请求互助：导入 apkg 显示“文件解析失败，请更换其他文件”](https://markji.discourse.group/t/topic/249)
 
 --8<-- "_partials/feedback-actions.md"
