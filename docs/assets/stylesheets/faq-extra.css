@@ -63,33 +63,84 @@ body {
 }
 
 .md-typeset {
-  font-size: 0.88rem;
-  line-height: 1.82;
+  font-size: 0.83rem;
+  line-height: 1.76;
 }
 
 .md-typeset h1 {
-  margin-bottom: 1.1rem;
-  font-size: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.76rem;
   font-weight: 700;
 }
 
 .md-typeset h2 {
-  margin-top: 2.4rem;
-  padding-bottom: 0.45rem;
+  margin-top: 2.2rem;
+  padding-bottom: 0.38rem;
   border-bottom: 1px solid var(--faq-border);
-  font-size: 1.24rem;
+  font-size: 1.14rem;
   font-weight: 700;
 }
 
 .md-typeset h3 {
-  margin-top: 1.55rem;
-  font-size: 1.03rem;
+  margin-top: 1.4rem;
+  font-size: 0.96rem;
   font-weight: 700;
 }
 
 .md-typeset p,
 .md-typeset li {
   color: #2c2c2c;
+}
+
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item {
+  margin-top: 0.18rem;
+}
+
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+  margin-top: 0.72rem;
+  padding: 0.38rem 0.2rem 0.18rem;
+  border-top: 1px solid rgba(35, 35, 35, 0.08);
+  font-size: 0.93rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #29241d;
+}
+
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item:first-child > .md-nav__link {
+  margin-top: 0.12rem;
+  border-top: 0;
+}
+
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav {
+  margin: 0.12rem 0 0.25rem 0.1rem;
+  padding-left: 0.82rem;
+  border-left: 1px solid rgba(35, 35, 35, 0.08);
+}
+
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav .md-nav__link {
+  padding: 0.18rem 0.12rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.45;
+  color: #5f574d;
+}
+
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav .md-nav__link--active {
+  color: #1f4f84;
+  font-weight: 600;
+  background: rgba(45, 103, 165, 0.08);
+  border-radius: 2px;
+}
+
+.md-sidebar--secondary .md-nav__title {
+  font-size: 0.72rem;
+  letter-spacing: 0.03em;
+  color: #5f574d;
+}
+
+.md-sidebar--secondary .md-nav__link {
+  font-size: 0.74rem;
+  line-height: 1.45;
 }
 
 .md-typeset a {
@@ -134,5 +185,9 @@ body {
   .md-content {
     border-left: 0;
     border-right: 0;
+  }
+
+  .md-content__inner {
+    padding: 1.8rem 1.25rem 2.4rem;
   }
 }
