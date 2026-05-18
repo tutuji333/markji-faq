@@ -40,6 +40,21 @@
 - 报错截图或录屏
 - 如果和导入有关，直接附上出问题的文件
 
+## 这几类问题更适合直接走人工协助
+
+- [跨设备同步失败怎么办？](questions/troubleshooting/sync-failed.md)
+- [登录时提示“学习数据解压密码错误”怎么办？](questions/troubleshooting/login-data-error.md)
+- [Anki 导入失败或乱码怎么办？](questions/troubleshooting/anki-import-garbled.md)
+- [导入 `.apkg` 提示“文件解析失败，请更换其他文件”怎么办？](questions/troubleshooting/apkg-parse-failed.md)
+
+## 反馈前先准备这些
+
+- 平台、系统版本、App 版本
+- 复现路径
+- 截图或录屏
+- 如果和导入有关，直接附上原文件
+- 如果和账号有关，准备好注册账号
+
 ## 我想先看看别人有没有问过类似问题
 
 先搜这套 FAQ，再去论坛看历史讨论：

@@ -15,6 +15,12 @@
 - [网页版如何更精准地搜索？](questions/web/web-search.md)
 - [为什么图片遮盖更适合在网页端处理？](questions/web/image-masking.md)
 
+## 如果你问的是“怎么做内容更快”
+
+- [制卡与创作](content-creation.md)
+- [如何更高效地批量生成语音？](questions/content/batch-audio.md)
+- [如何更高效地批量制卡？](questions/content/batch-card-making.md)
+
 ## 如果你遇到的是网页异常
 
 - [网页功能或导出异常怎么办？](questions/troubleshooting/web-export-bug.md)

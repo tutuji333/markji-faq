@@ -17,16 +17,13 @@
 - 是稳定复现，还是偶发
 - 具体是在哪一步开始异常
 
-## 3. 再决定走哪个处理入口
+## 3. 先分清“规则问题”还是“真正异常”
 
-- `功能异常 / bug / 签到失败 / 网页行为异常`：优先走 `异常反馈`
-- `跨设备同步失败`：先走 `异常反馈`，再视情况补邮件
-- `登录时提示学习数据解压密码错误` 或其他需要账号人工排查的问题：发邮件 `support@markji.com`
-- `导入 .apkg` 解析失败：保留原文件，`异常反馈` 或邮件都可以
-- `Anki` 导入失败 / 乱码：更适合直接邮件并附上文件
-- `只是想看看别人怎么理解这个功能`：先看对应 FAQ，再去论坛
+- `找不到补签按钮 / 想知道提前签到有什么用 / 不理解某个规则`：先看 FAQ 规则页，不要先按 bug 处理
+- `已经满足条件，但行为还是明显不对`：再按异常处理
+- `需要账号、文件或工程师人工排查`：不要在这里硬猜，直接转去求助入口页
 
-## 4. 提交前准备这些信息
+## 4. 再准备反馈信息
 
 - 平台、系统版本、App 版本
 - 复现路径
@@ -34,21 +31,23 @@
 - 如果和导入有关，直接附上原文件
 - 如果和账号有关，准备好注册账号
 
-## 这两类问题别混在一起
+## 5. 真正需要选渠道时，去看求助入口页
 
-- `找不到补签按钮 / 想知道提前签到有什么用`：先看规则说明，不要先按 bug 处理
-- `已经满足条件但还是失败`：再按异常处理
+- [我该去哪里求助？](getting-help.md)
 
 ## 常见异常入口
 
 - [手机端 App 登录失败](questions/troubleshooting/app-login-failed.md)
-- [导入 `.apkg` 提示文件解析失败](questions/troubleshooting/apkg-parse-failed.md)
-- [Anki 导入失败或乱码](questions/troubleshooting/anki-import-garbled.md)
 - [“新学受复习上限影响”表现不对](questions/troubleshooting/review-limit-bug.md)
-- [登录时提示学习数据解压密码错误](questions/troubleshooting/login-data-error.md)
-- [跨设备同步失败](questions/troubleshooting/sync-failed.md)
 - [签到失败或按钮异常](questions/troubleshooting/sign-in-failed.md)
 - [网页功能或导出异常](questions/troubleshooting/web-export-bug.md)
+
+## 这些问题通常会直接进入人工排查
+
+- [跨设备同步失败](questions/troubleshooting/sync-failed.md)
+- [登录时提示学习数据解压密码错误](questions/troubleshooting/login-data-error.md)
+- [Anki 导入失败或乱码](questions/troubleshooting/anki-import-garbled.md)
+- [导入 `.apkg` 提示文件解析失败](questions/troubleshooting/apkg-parse-failed.md)
 
 ## 参考帖子
 

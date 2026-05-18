@@ -21,7 +21,9 @@
 - `docs/getting-help.md`：求助分流页
 - `docs/troubleshooting.md`：故障排查总入口
 - `docs/study-cards.md` 等专题页：只做问题索引，不在这里堆长答案
+- `docs/content-creation.md`：制卡与创作入口，专门收内容制作相关高频问题
 - `docs/questions/`：具体问题单页，后续新增 FAQ 默认优先加在这里
+- `docs/questions/sign-in/` 和 `docs/questions/decks/`：除了软件使用，也会承接签到规则、分享规则、共享牌组边界这类高频短问答
 
 ## 如果你只是想查问题
 

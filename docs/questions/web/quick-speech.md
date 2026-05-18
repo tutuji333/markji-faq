@@ -36,4 +36,9 @@
 
 - [请求互助：关于如何快速生成语音？](https://markji.discourse.group/t/topic/313)
 
+## 相关问题
+
+- [如何更高效地批量生成语音？](../content/batch-audio.md)
+- [当前支持 Markdown、表格、标题或代码块吗？](../content/markdown-support.md)
+
 --8<-- "../../_partials/feedback-actions.md"

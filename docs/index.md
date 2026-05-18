@@ -14,9 +14,11 @@
 - [跨设备同步失败怎么办？](questions/troubleshooting/sync-failed.md)
 - [登录时提示学习数据解压密码错误怎么办？](questions/troubleshooting/login-data-error.md)
 - [补签按钮在哪里？补签卡怎么用？](questions/sign-in/make-up-sign-in.md)
-- [如何尽量保证每天都有固定新学？](questions/study/daily-new-cards.md)
+- [为什么我把学习量设成 20，今天却只安排几张？](questions/study/daily-new-cards.md)
+- [考前冲刺时应该用练习模式还是提前复习？](questions/study/exam-cram.md)
 - [为什么一键选卡不见了？](questions/study/one-tap-selection-missing.md)
 - [为什么“模糊完成复习”功能不见了？](questions/study/fuzzy-completes-review.md)
+- [制卡语法、视频教程和创作者资料去哪里找？](questions/content/creation-resources.md)
 
 ## 按问题找答案
 
@@ -26,6 +28,7 @@
 - [专业版与记忆币](pro-membership.md)
 - [导入与迁移](import-export.md)
 - [网页版、语音与搜索](web-editing.md)
+- [制卡与创作](content-creation.md)
 
 ## 这套 FAQ 的边界
 
@@ -33,6 +36,7 @@
 - 功能是否已上线，优先看页面里写明的版本号或入口变化。
 - 明显的报错、失败、闪退、同步异常，优先看[故障排查](troubleshooting.md)。
 - 页面内容优先整理论坛里的官方回复和官方邮件口径；如果补充了高频互助讨论，也会尽量写清它不是同等强度的官方规则。
+- 只要某个问题已经明显从“普通使用”延伸到“内容制作 / 创作效率”，也会在这里单独开页，不再强行塞回使用手册。
 
 ## 如果你是第一次来
 
