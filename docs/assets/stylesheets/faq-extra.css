@@ -171,7 +171,21 @@ body {
   border-top: 1px solid var(--faq-border);
 }
 
-@media screen and (min-width: 76.25em) {
+@media screen and (min-width: 64em) {
+  /* Pull the full desktop reading layout down to common laptop widths. */
+  .md-sidebar--primary {
+    position: sticky;
+    top: 2.45rem;
+    left: auto;
+    right: auto;
+    width: 16rem;
+    height: auto;
+    max-height: calc(100vh - 2.45rem);
+    padding-top: 1.2rem;
+    transform: none;
+    z-index: auto;
+  }
+
   .md-sidebar--primary {
     width: 16rem;
   }
@@ -181,7 +195,7 @@ body {
   }
 }
 
-@media screen and (max-width: 76.234375em) {
+@media screen and (max-width: 63.984375em) {
   .md-content {
     border-left: 0;
     border-right: 0;
