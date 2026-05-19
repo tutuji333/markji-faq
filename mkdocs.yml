@@ -9,6 +9,8 @@ theme:
   name: material
   language: zh
   features:
+    - navigation.sections
+    - navigation.expand
     - search.suggest
     - search.highlight
     - toc.follow
