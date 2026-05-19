@@ -11,13 +11,13 @@
 
 ## 如果你只想先看 4 个入口
 
-1. `topic 407`：最适合拿来找制卡语法文档入口  
+1. [topic 407](https://markji.discourse.group/t/topic/407)：最适合拿来找制卡语法文档入口  
    论坛里直接给出了飞书文档跳转。
-2. `topic 713`：官方视频指南合集  
+2. [topic 713](https://markji.discourse.group/t/topic/713)：官方视频指南合集  
    适合刚开始做牌组、想看演示操作的人。
-3. `topic 654`：创作者及制卡相关帖子整理  
+3. [topic 654](https://markji.discourse.group/t/topic/654)：创作者及制卡相关帖子整理  
    更像一份“内容制作资料导航”。
-4. `topic 546`：创作公告与精选牌组指南  
+4. [topic 546](https://markji.discourse.group/t/topic/546)：创作公告与精选牌组指南  
    这里既有创作者福利信息，也有官方明确写出的高质量制卡标准。
 
 ## 你可以按场景找资料
