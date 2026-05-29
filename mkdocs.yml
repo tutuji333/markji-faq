@@ -34,6 +34,7 @@ extra_css:
 
 nav:
   - 首页: index.md
+  - 更新日志: changelog.md
   - 我该去哪里求助？: getting-help.md
   - 学习与复习:
       - 学习与复习总览: study-cards.md

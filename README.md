@@ -18,6 +18,7 @@
 ## 当前内容结构
 
 - `docs/index.md`：FAQ 首页
+- `docs/changelog.md`：更新日志，记录站点内容与结构变化
 - `docs/getting-help.md`：求助分流页
 - `docs/troubleshooting.md`：故障排查总入口
 - `docs/study-cards.md` 等专题页：只做问题索引，不在这里堆长答案

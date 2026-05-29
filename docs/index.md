@@ -8,6 +8,7 @@
 
 - [我该去哪里求助？](getting-help.md)
 - [出现问题时先做什么？](troubleshooting.md)
+- [最近更新了什么？](changelog.md)
 
 ## 高频直达
 
@@ -44,5 +45,6 @@
 - 只想确认一个短问题：直接进对应专题页
 - 已经出现异常：先看[出现问题时先做什么？](troubleshooting.md)
 - 想改这套 FAQ：用页尾的文档反馈入口
+- 想看最近补了哪些内容：看[更新日志](changelog.md)
 
 --8<-- "_partials/feedback-actions.md"
