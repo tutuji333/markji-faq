@@ -11,6 +11,7 @@
 
 ## 如果你在做复杂排版或理工科内容
 
+- [选择题怎么加答案解析？](questions/content/choice-question-explanations.md)
 - [理工科公式、答案线和特殊格式怎么处理？](questions/content/formulas-and-answer-lines.md)
 - [当前支持 Markdown、表格、标题或代码块吗？](questions/content/markdown-support.md)
 

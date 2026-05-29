@@ -7,12 +7,14 @@
 ### 新增
 
 - 新增学习与复习 FAQ：[卡片大量逾期堆积怎么办？](questions/study/overdue-card-backlog.md)
+- 新增制卡与创作 FAQ：[选择题怎么加答案解析？](questions/content/choice-question-explanations.md)
 
 ### 更新
 
 - 根据官方答疑补充 `提前签到 + 继续复习` 作为大量逾期堆积时的推荐处理方式。
 - 在 [提前签到有什么用？](questions/sign-in/early-sign-in.md) 中补充大量逾期时的使用场景。
 - 在 [重置学习数据和移出记忆有什么区别？](questions/study/reset-vs-remove-memory.md) 中补充 `重置学习数据` 入口仍在、但不建议轻易使用的说明。
+- 根据近期论坛高频讨论，补充选择题解析的当前做法与功能边界说明。
 
 ## 2026-05-19
 
