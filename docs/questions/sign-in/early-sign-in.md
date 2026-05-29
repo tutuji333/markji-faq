@@ -12,6 +12,8 @@
 2. 临时有事，没时间学完今天的任务
 3. 待学习或待复习积压很多，想先稳住签到，再慢慢清任务
 
+官方在 [topic 740](https://markji.discourse.group/t/topic/740) 里也把 `提前签到` 作为大量逾期堆积时的推荐减压方案：先维持打卡状态，再根据当天精力配合 `继续复习` 分批消化积压任务。
+
 ## 如果你当前看不到这个入口
 
 论坛里关于这个功能的公开帖子，只明确提到了 `iOS 4.13.00` 这次更新。
@@ -32,5 +34,6 @@
 
 - [版本更新：iOS 4.13.00 提前签到](https://markji.discourse.group/t/topic/453)
 - [请求互助：iOS 新更新的提前签到功能怎样使用？](https://markji.discourse.group/t/topic/452)
+- [使用答疑：卡片大量逾期堆积如何处理？](https://markji.discourse.group/t/topic/740)
 
 --8<-- "../../_partials/feedback-actions.md"

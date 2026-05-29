@@ -12,6 +12,7 @@
 - [为什么“模糊完成复习”功能不见了？](questions/study/fuzzy-completes-review.md)
 - [复习时应该如何点击“认识 / 模糊 / 忘记”？](questions/study/how-to-use-feedback-buttons.md)
 - [如何查看卡片记忆历史与下次复习安排？](questions/study/memory-history.md)
+- [卡片大量逾期堆积怎么办？](questions/study/overdue-card-backlog.md)
 - [为什么有些卡片的复习间隔会突然很长？](questions/study/review-interval-too-long.md)
 - [重置学习数据和移出记忆有什么区别？](questions/study/reset-vs-remove-memory.md)
 
