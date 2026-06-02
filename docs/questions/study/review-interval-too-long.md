@@ -68,6 +68,7 @@
 
 - [复习时应该如何点击“认识 / 模糊 / 忘记”？](how-to-use-feedback-buttons.md)
 - [考前冲刺时应该用练习模式还是提前复习？](exam-cram.md)
+- [为什么同一天新学的卡片，初次点认识后复习间隔不同？](first-review-interval-different.md)
 
 ## 参考帖子
 

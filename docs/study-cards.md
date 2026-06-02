@@ -13,6 +13,7 @@
 - [复习时应该如何点击“认识 / 模糊 / 忘记”？](questions/study/how-to-use-feedback-buttons.md)
 - [如何查看卡片记忆历史与下次复习安排？](questions/study/memory-history.md)
 - [卡片大量逾期堆积怎么办？](questions/study/overdue-card-backlog.md)
+- [为什么同一天新学的卡片，初次点认识后复习间隔不同？](questions/study/first-review-interval-different.md)
 - [为什么有些卡片的复习间隔会突然很长？](questions/study/review-interval-too-long.md)
 - [重置学习数据和移出记忆有什么区别？](questions/study/reset-vs-remove-memory.md)
 
