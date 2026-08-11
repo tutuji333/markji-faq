@@ -81,6 +81,7 @@ nav:
       - 图片遮盖更适合网页端: questions/web/image-masking.md
   - 制卡与创作:
       - 制卡与创作总览: content-creation.md
+      - Markji 制卡语法关键指南: questions/content/card-syntax-guide.md
       - 制卡语法、视频教程和创作者资料去哪里找: questions/content/creation-resources.md
       - 如何更高效地批量制卡: questions/content/batch-card-making.md
       - 选择题怎么加答案解析: questions/content/choice-question-explanations.md
