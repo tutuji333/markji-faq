@@ -11,7 +11,7 @@
 
 如果你需要一份可以直接查语法、复制模板和核对常见错误的完整页面，请看：
 
-- [Markji 制卡语法关键指南](card-syntax-guide.md)
+- [墨墨记忆卡（Markji）制卡语法关键指南](card-syntax-guide.md)
 
 ## 如果你只想先看 4 个入口
 

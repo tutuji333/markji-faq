@@ -6,7 +6,7 @@
 
 ## 如果你刚开始做内容
 
-- [Markji 制卡语法关键指南](questions/content/card-syntax-guide.md)
+- [墨墨记忆卡（Markji）制卡语法关键指南](questions/content/card-syntax-guide.md)
 - [制卡语法、视频教程和创作者资料去哪里找？](questions/content/creation-resources.md)
 - [如何更高效地批量制卡？](questions/content/batch-card-making.md)
 
